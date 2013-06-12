@@ -1,0 +1,4 @@
+quote-file
+==========
+
+Amusing quotes

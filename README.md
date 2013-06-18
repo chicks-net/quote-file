@@ -10,7 +10,11 @@ Here are some of my favorite quotes of all time.
 
 > Free software isn't free, but expensive software is expensive.
 
+I heard that at Usenix in San Antonio and I've used it as my email signature for several years.
+
 > The great thing about standards is there are so many to choose from.
+
+I say this every week it seems.  It applies to so many areas of technology.
 
 OpenX quotes
 ------------
@@ -18,6 +22,8 @@ OpenX quotes
 During my days at OpenX we often said:
 
 > We do it to ourselves.
+
+and
 
 > Tested in Production
 

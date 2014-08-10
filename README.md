@@ -28,6 +28,16 @@ Good quotes
 
 - Prof. E.O. Wilson
 
+
+> I think it’s intoxicating when somebody is so unapologetically who they are.
+
+- Don Cheadle
+
+
+> You are so brave and quiet I forget you are suffering.
+
+- Ernest Hemingway
+
 OpenX quotes
 ------------
 

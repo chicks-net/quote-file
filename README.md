@@ -16,6 +16,15 @@ I heard that at Usenix in San Antonio and I've used it as my email signature for
 
 I say this every week it seems.  It applies to so many areas of technology.
 
+Good quotes
+-----------
+
+> Genius is one percent inspiration and ninety-nine percent perspiration.
+- Thomas A. Edison
+
+> Some­times a concept is baffling not because it is profound but because it’s wrong.
+- Prof. E.O. Wilson
+
 OpenX quotes
 ------------
 

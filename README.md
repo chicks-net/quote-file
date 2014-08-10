@@ -20,9 +20,12 @@ Good quotes
 -----------
 
 > Genius is one percent inspiration and ninety-nine percent perspiration.
+
 - Thomas A. Edison
 
+
 > Some­times a concept is baffling not because it is profound but because it’s wrong.
+
 - Prof. E.O. Wilson
 
 OpenX quotes

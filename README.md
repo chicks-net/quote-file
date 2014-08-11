@@ -49,7 +49,7 @@ The answer used to be a "slide projector", but nobody knows what that is anymore
 
 > Awfluence
 
-Christine H's name for [Confluence](http://en.wikipedia.org/wiki/Confluence_(software&$31;)
+Christine H's name for <A href="http://en.wikipedia.org/wiki/Confluence_(software)">Confluence</a>
 
 
 OpenX quotes

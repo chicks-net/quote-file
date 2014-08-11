@@ -38,6 +38,20 @@ Good quotes
 
 - Ernest Hemingway
 
+
+Technology quotes
+-----------------
+
+> Q: What is the best platform for running Oracle?
+> A: A PowerPoint presentation!
+
+The answer used to be a "slide projector", but nobody knows what that is anymore.
+
+> Awfluence
+
+Christine H's name for [Confluence](http://en.wikipedia.org/wiki/Confluence_(software&$31;)
+
+
 OpenX quotes
 ------------
 

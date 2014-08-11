@@ -6,15 +6,17 @@ Amusing and inspiring quotes
 Favorite quotes
 ---------------
 
-Here are some of my favorite quotes of all time.
+These are some of my favorite quotes of all time.
 
 > Free software isn't free, but expensive software is expensive.
 
-I heard that at Usenix in San Antonio and I've used it as my email signature for several years.
+I heard that at [Usenix](https://www.usenix.org/) in San Antonio and I've used it as my email signature for several years.
 
 > The great thing about standards is there are so many to choose from.
 
 I say this every week it seems.  It applies to so many areas of technology.
+Thankfully the same idea has now been immortalized by [xkdc](http://xkcd.com/927/).
+
 
 Good quotes
 -----------
@@ -26,7 +28,7 @@ Good quotes
 
 > Some­times a concept is baffling not because it is profound but because it’s wrong.
 
-- Prof. E.O. Wilson
+- [Prof. E.O. Wilson](http://en.wikipedia.org/wiki/E._O._Wilson)
 
 
 > I think it’s intoxicating when somebody is so unapologetically who they are.

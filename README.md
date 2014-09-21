@@ -40,6 +40,9 @@ Good quotes
 
 - Ernest Hemingway
 
+> Art washes from the soul the dust of everyday life.
+
+- Pablo Picasso
 
 Technology quotes
 -----------------
@@ -53,7 +56,6 @@ The answer used to be a "slide projector", but nobody knows what that is anymore
 > Awfluence
 
 Christine H's name for <A href="http://en.wikipedia.org/wiki/Confluence_(software)">Confluence</a>
-
 
 OpenX quotes
 ------------

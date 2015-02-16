@@ -40,9 +40,16 @@ Good quotes
 
 - Ernest Hemingway
 
+
 > Art washes from the soul the dust of everyday life.
 
 - Pablo Picasso
+
+
+> Seven blunders of the world that lead to violence: wealth without work, pleasure without conscience, knowledge without character, commerce without morality, science without humanity, worship without sacrifice, politics without principle.
+
+- Mahatma Gandhi
+
 
 Technology quotes
 -----------------

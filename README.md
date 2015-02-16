@@ -57,6 +57,13 @@ The answer used to be a "slide projector", but nobody knows what that is anymore
 
 Christine H's name for <A href="http://en.wikipedia.org/wiki/Confluence_(software)">Confluence</a>
 
+Funny quotes
+------------
+
+> If trees could scream, would we be so cavalier about cutting them down? We might, if they screamed all the time, for no good reason.
+
+- [Jack Handey](http://en.wikipedia.org/wiki/Jack_Handey)
+
 OpenX quotes
 ------------
 

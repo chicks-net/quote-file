@@ -62,7 +62,7 @@ Funny quotes
 
 > If trees could scream, would we be so cavalier about cutting them down? We might, if they screamed all the time, for no good reason.
 
-- [Jack Handey](http://en.wikipedia.org/wiki/Jack_Handey)
+- [Jack Handey](http://en.wikipedia.org/wiki/Jack_Handey) ([video](https://screen.yahoo.com/deep-thoughts-trees-000000989.html))
 
 OpenX quotes
 ------------

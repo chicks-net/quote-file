@@ -71,6 +71,10 @@ Funny quotes
 
 - [Jack Handey](http://en.wikipedia.org/wiki/Jack_Handey) ([video](https://screen.yahoo.com/deep-thoughts-trees-000000989.html))
 
+> The time you enjoy wasting is not wasted time.
+
+— Bertrand Russell
+
 OpenX quotes
 ------------
 

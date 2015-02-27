@@ -54,6 +54,11 @@ Good quotes
 Technology quotes
 -----------------
 
+> Systems administration is boredom punctuated with typing the exact right command.
+
+If you're still awake to type it, I suppose.  There was a similar quote about war,
+but wars end and systems administration is eternal. :gun:
+
 > Q: What is the best platform for running Oracle?
 
 > A: A PowerPoint presentation!

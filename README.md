@@ -50,6 +50,9 @@ Good quotes
 
 - Mahatma Gandhi
 
+> The difference between peace and fuck is one finger.
+
+- Theresa
 
 Technology quotes
 -----------------
